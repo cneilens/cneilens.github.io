@@ -1,0 +1,25 @@
+title: C++ Debugging Insights
+description: A senior engineer's guide to debugging C++ applications
+author: Colin Neilens
+baseurl: ""
+url: "https://cneilens.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "*.docx"
+  - post1.md
+  - post2.md
+  - post3.md
+  - post4.md
